@@ -219,7 +219,7 @@ def main():
         )
 
         # 绘制文字提示
-        font = pygame.font.SysFont("Consolas", 16)
+        font = pygame.font.SysFont("Microsoft YaHei", 16)
         texts = [
             "Lesson 02: 软光栅渲染 - 三角形光栅化",
             "绿色: 线框三角形 (wireframe)",
